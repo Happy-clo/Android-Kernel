@@ -471,12 +471,14 @@ This is just a suggestion, and we do not provide a specific guide.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments. Please do not use the build attachments directly. The author is not responsible for any problems with the source plugin.
 # Statement
 
 > [!CAUTION]  
-> 本分支仅用于个人开发提供学习研究，请勿直接使用任何附件。如出现任何有关源附件问题，本作者概不负责。，请勿直接使用构建附件。如出现任何有关源插件问题，本作者概不负责。
+> 本分支仅用于个人开发提供学习研究，请勿直接使用任何附件。如出现任何有关源附件问题，本作者概不负责。
 
 ---
 
 > [!CAUTION]  
-> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments. Please do not use the build attachments directly. The author is not responsible for any problems with the source plugin.
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
